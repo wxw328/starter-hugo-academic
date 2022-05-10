@@ -24,17 +24,19 @@ education:
   courses:
     - course: Exchange Student in Computer Science
       institution: University of California, Santa Barbara
-      year: 2022
+      year: Fall 2022 ~ now 
     - course: BSc in Computer Science
       institution: Huazhong University of Science and Technology
-      year: 2019
+      year: Fall 2019 ~ Fall 2022
 email: ""
 superuser: true
-highlight_name: true
+highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiangwei Wang is now a student of Computer Science at the University of California, Santa Barbara. Before he came to UCSB, he has finished three years study at  Huazhong University of Science and Technology. His  research interests include AI hardware-software co-design, EDA and novel computer architecture. He want to pursue PHD degree after graduation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+He has achieved excellent scores in his study. His GPA is<font color='red'> 3.98</font> and his rank in HUST is <font color='red'> 3/125</font>.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
