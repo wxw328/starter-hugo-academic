@@ -1,13 +1,13 @@
 ---
 title: Xiangwei Wang
 role: Undergraduate Student
-avatar_filename: qq图片20220424125142.jpg
+avatar_filename: avatar.jpg
 bio: "My research interests include computer architecture, electric design
   automation and AI HW-SW codesign. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - computer architecture
+  - electric design automation
+  - AI HW-SW codesign
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,22 +15,19 @@ social:
   - display:
       header: false
     link: https://github.com/wxw328
-    icon_pack: fas
+    icon_pack: fab
     icon: github
 organizations:
   - name: University of California, Santa Barbara
     url: https://www.ucsb.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Exchange Student in Computer Science
+      institution: University of California, Santa Barbara
+      year: 2022
+    - course: BSc in Computer Science
+      institution: Huazhong University of Science and Technology
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
