@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: "My research interests include computer architecture, electric design
   automation and AI HW-SW codesign. "
 interests:
-  - computer architecture
-  - electric design automation
-  - AI HW-SW codesign
+  - Computer architecture
+  - Electric design automation
+  - AI HW-SW co-design
 social:
   - icon: envelope
     icon_pack: fas

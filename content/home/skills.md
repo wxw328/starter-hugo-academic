@@ -9,7 +9,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 25
 
 title: Skills
 subtitle:
@@ -18,18 +18,32 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: 
+    icon: c
+    icon_pack: custom
+    name: C++
+  - description: 
+    icon: python
+    icon_pack: custom
+    name: Python
+  - description: 
+    icon: ai
+    icon_pack: custom
+    name: AI
+  - description: 
+    icon: circuit-board
+    icon_pack: custom
+    name: Circuit
+  - description: 
+    icon: linux
+    icon_pack: custom
+    name: Linux
+
+design: 
+   columns: '2'
+   spacing:
+        padding: ["10px","0","10px","0"]
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -3,7 +3,7 @@ name = "Cyberpunk"
 
 [light]
   # Primary
-  primary = "rgb(255, 0, 60)"
+  primary = "#2962ff"
 
   # Menu
   menu_primary = "#fff"
@@ -13,7 +13,7 @@ name = "Cyberpunk"
 
 [dark]
   # Primary
-  primary = "rgb(255, 0, 60)"
+  primary = "#2962ff"
 
   # Menu
   menu_primary = "#fff"
@@ -22,6 +22,9 @@ name = "Cyberpunk"
   menu_title = "#000"
 
   # Backgrounds
-  background = "#000"
-  home_section_odd = "#000"
-  home_section_even = "#000"
+  background = "#EAE7D6"
+  home_section_odd = "#EAE7D6"
+  home_section_even = "#EAE7D6"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
